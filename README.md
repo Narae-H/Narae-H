@@ -28,9 +28,11 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a love 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Java, HTML, CSS
-- **Frameworks & Libraries:** React
-- **Databases:** MySQL
-- **Tools:** Git, VS Code
+- **Languages:** Java, HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, jQuery, SpringBoot, Thymeleaf, Bootstrap
+- **Databases:** MySQL, MariaDB
+- **Cloud Services:** AWS Elastic Beanstalk, AWS EC2, AWS RDS, AWS S3, AWS Route 53, Azure Database
+- **Tools:** Git, VS Code, Eclipse, DBeaver
+- **Others**: Restful API, SEO, MS Apps, MS Power BI, MS Power Automate
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😊

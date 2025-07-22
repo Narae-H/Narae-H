@@ -14,12 +14,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a love 
 - Exploring TypeScript to build robust and maintainable applications.
 - Studying Docker for environment configuration and aiming to implement CI/CD pipelines as part of my learning process.
 
-## 💬 Ask Me About
-
-- Web development (HTML, CSS, JavaScript, React)
-- Java programming
-- My journey in learning new technologies
-
 ## 📫 How to Reach Me
 
 - LinkedIn: [Narae Hyeon](https://www.linkedin.com/in/narae-hyeon)
@@ -33,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a love 
 - **Frameworks & Libraries:** React, Node.js, jQuery, SpringBoot, Thymeleaf, Bootstrap
 - **Databases:** MySQL, MariaDB, Oracle DB
 - **Cloud Services:** AWS Elastic Beanstalk, AWS EC2, AWS RDS, AWS S3, AWS Route 53, Azure Database
-- **Tools:** Git, VS Code, Eclipse, DBeaver
+- **Tools:** Git/GitHub, VS Code, Eclipse, DBeaver
 - **Others**: RESTful API, SEO, Docker, MS Apps, MS Power BI, MS Power Automate
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😊

@@ -1,33 +1,39 @@
-# Hi there, I'm Narae! 👋
+# Hi, I'm Narae 👋
+Full Stack Developer | Java | React & TypeScript | AWS
+I build scalable, maintainable, and user-friendly web applications.
 
-Welcome to my GitHub profile! I'm a passionate full stack developer with a love for learning and creating. Here's a bit about me:
+<br/>
 
-## 🔭 What I'm Currently Working On
+## 🛠 Tech Stack
 
-- Brainstorming a side project that involves building web applications using React, TypeScript, Node.js, Docker, and Cloud services.
-- Exploring opportunities to contribute to open source projects.
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 🌱 What I'm Learning
+<br/>
 
-- Deepening my knowledge of Java and SpringBoot.
-- Enhancing my skills in backend development with Node.js.
-- Exploring TypeScript to build robust and maintainable applications.
-- Studying Docker for environment configuration and aiming to implement CI/CD pipelines as part of my learning process.
+## 📂 Featured Projects
 
-## 📫 How to Reach Me
+### [Portfolio-2025](https://github.com/Narae-H/portfolio-2025)
+- React, Redux Toolkit, Next.js, TypeScript, Tailwind CSS
+- Personal portfolio with dynamic theme switching, and responsive web
 
+### [My Muscle Chef Clone](https://github.com/Narae-H/mymc-portfolio)
+- React, Redux Toolkit, JavaScript, CSS
+- Full responsive web application with RESTful API
+
+<br/>
+
+## 📈 GitHub Stats
+![Narae's GitHub stats](https://github-readme-stats.vercel.app/api?username=narae-h&show_icons=true)
+
+<br/>
+
+## 📫 Contact
+- Email: naraehyeon@gmail.com
 - LinkedIn: [Narae Hyeon](https://www.linkedin.com/in/narae-hyeon)
-- Email: [dev.naraehyeon@gmail.com](mailto:dev.naraehyeon@gamil.com)
-- Projects: [My Projects](https://narae-h.github.io/portfolio/experiences)
-  
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** Java, HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Node.js, jQuery, SpringBoot, Thymeleaf, Bootstrap
-- **Databases:** MySQL, MariaDB, Oracle DB
-- **Cloud Services:** AWS Elastic Beanstalk, AWS EC2, AWS RDS, AWS S3, AWS Route 53, Azure Database
-- **Tools:** Git/GitHub, VS Code, Eclipse, DBeaver
-- **Others**: RESTful API, SEO, Docker, MS Apps, MS Power BI, MS Power Automate
-
-Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate or just chat about tech. 😊

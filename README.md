@@ -14,6 +14,7 @@ I build scalable, maintainable, and user-friendly web applications.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/vibe-4479A1?logo=vibe&logoColor=#01B4E4)
 
 <br/>
 
@@ -23,14 +24,20 @@ I build scalable, maintainable, and user-friendly web applications.
 - React, Redux Toolkit, Next.js, TypeScript, Tailwind CSS
 - Personal portfolio with dynamic theme switching, and responsive web
 
-### [My Muscle Chef Clone](https://github.com/Narae-H/mymc-portfolio)
-- React, Redux Toolkit, JavaScript, CSS
-- Full responsive web application with RESTful API
+### [Vibe Coding](https://github.com/Narae-H/study-vibe-coding
+- Front-end development using **React (Next.js v14+)**
+- Built a digital diary app using a “vibe coding” workflow
+- Designed with **Figma** (free version) and developed in **Cursor** (paid pro version)
+- Implemented component-driven development with **Storybook**
+- Added automated UI tests with **Playwright** for reliable user flows
+- Focused on clean architecture, reusable components and consistent UI/UX
 
 <br/>
 
-## 📈 GitHub Stats
-![Narae's GitHub stats](https://github-readme-stats.vercel.app/api?username=narae-h&show_icons=true)
+## 🚀 What I’m Currently Working On
+- Preparing for the `AWS Solutions Architect Associate` (SAA-C03) — aiming to complete it by early January
+- Improving my front-end skills with `React`, `TypeScript`, and modern `Next.js`
+- Deepening my testing foundations with `Java testing tools` (JUnit, Mockito, and integration testing best practices)
 
 <br/>
 

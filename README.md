@@ -14,7 +14,7 @@ I build scalable, maintainable, and user-friendly web applications.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Vibe Coding](https://img.shields.io/badge/vibe-4479A1?logo=vibe&logoColor=#01B4E4)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-2496ED?logo=vibe&logoColor=#1bddfc)
 
 <br/>
 

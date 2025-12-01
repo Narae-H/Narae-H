@@ -24,7 +24,7 @@ I build scalable, maintainable, and user-friendly web applications.
 - React, Redux Toolkit, Next.js, TypeScript, Tailwind CSS
 - Personal portfolio with dynamic theme switching, and responsive web
 
-### [Vibe Coding](https://github.com/Narae-H/study-vibe-coding
+### [Vibe Coding](https://github.com/Narae-H/study-vibe-coding)
 - Front-end development using **React (Next.js v14+)**
 - Built a digital diary app using a “vibe coding” workflow
 - Designed with **Figma** (free version) and developed in **Cursor** (paid pro version)
